@@ -1,2 +1,3 @@
 # SNPriority
-Systems Genomics approach to Filter rare Disease-caueing Mutations from Annotated Clinical exomes.
+Systems Genomics approach to Filter rare Disease-causing
+Mutations from Annotated Clinical exome Variant VCF files.
